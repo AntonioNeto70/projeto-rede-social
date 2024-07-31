@@ -35,3 +35,15 @@ section#telefone {
     background-repeat: no-repeat;
     
 }
+
+iframe#tela {
+    background: black url(../imagens/tela-home.jpg) top center no-repeat;
+    position: relative;
+    background-size: cover;
+
+    top: 80px;
+    left: 22px;
+
+    width: 268px;
+    height: 471px;
+}
